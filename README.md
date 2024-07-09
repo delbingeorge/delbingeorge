@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  ![Profile Read Me](https://github.com/delbingeorge/delbingeorge/blob/main/assets/profile-cover-image.png?raw=true)
+![Profile Read Me](https://github.com/delbingeorge/delbingeorge/blob/main/assets/profile-cover-image.png?raw=true)
 
+<div style="text-align: center;">
   <a href="https://delb.in">
     <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/browser-logo.png?raw=true" alt="Portfolio Website" width="30" height="30">
   </a>
