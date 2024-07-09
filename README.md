@@ -2,7 +2,7 @@
 
 
 <a href="https://delb.in">
-    <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/browser-logo.png?raw=true" alt="Portfolio Website" width="100" height="40">
+    <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/browser-logo.png?raw=true" alt="Portfolio Website" width="90" height="40">
   </a>
 
   <a href="mailto:imdelbingeorge@gmail.com">
@@ -10,5 +10,5 @@
   </a>
 
   <a href="https://www.linkedin.com/in/delbingeorge">
-    <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/linkedin-logo.png?raw=true" alt="LinkedIn" width="80" height="40">
+    <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/linkedin-logo.png?raw=true" alt="LinkedIn" width="90" height="40">
   </a>
