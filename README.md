@@ -1,2 +1,2 @@
-![Alt text](https://github.com/delbingeorge/delbingeorge/blob/main/assets/ProfileReadme.png?raw=true)
+![Alt text](https://github.com/delbingeorge/delbingeorge/blob/main/assets/profile-cover-image.png?raw=true)
 
