@@ -1,6 +1,5 @@
 ![Profile Read Me](https://github.com/delbingeorge/delbingeorge/blob/main/assets/profile-cover-image.png?raw=true)
 
-
 <a href="https://delb.in">
     <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/browser-logo.png?raw=true" alt="Portfolio Website" width="90" height="40">
   </a>
