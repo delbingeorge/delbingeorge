@@ -1,2 +1,2 @@
-![Alt text](assets/profilereadme.png)
+![Alt text](/assets/profilereadme.png)
 
