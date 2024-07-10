@@ -12,5 +12,7 @@
     <img src="https://github.com/delbingeorge/delbingeorge/blob/main/assets/linkedin-logo.png?raw=true" alt="LinkedIn"  height="40">
   </a>
 
+  <a href="https://www.digitalocean.com/?refcode=7e3beaea6cba&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" width=100 height=80 /></a>
 
-<a href="https://www.digitalocean.com/?refcode=7e3beaea6cba&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+
+
